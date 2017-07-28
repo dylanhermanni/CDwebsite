@@ -1,0 +1,152 @@
+body  {
+    background: url("img/concrete-texture.png");
+}
+
+header {
+    background-color: rgb(44,62,80);
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px 10px 10px 10px;
+}
+.Naam {
+    color: white;
+    font-size: 70px;
+    left: 500px;
+    position: absolute;
+    top: -30px;
+
+}
+.Nav {
+    background-color: rgb(24, 188, 156);
+    height: 65px;
+    margin-left: 470px;
+    margin-right: 270px;
+    margin-top: 5px;
+    text-align: center;
+    width: 600px;
+}
+.link {
+    background-color: lightcoral;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    font-family: "Anton",sans-serif;
+    font-size: 19px;
+    height: 29px;
+    margin-bottom: 20px;
+    margin-left: 4px;
+    margin-top: 15px;
+    padding: 0 80px;
+    text-align: center;
+    text-decoration: none;
+}
+.link:hover {
+    color: greenyellow;
+    font-size: 26px;
+    text-decoration: underline;
+    font-family: 'Anton', sans-serif;
+}
+.Media {
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-left: 14px;
+}
+.info {
+    background-color: rgb(24, 188, 156);
+    border-radius: 10px;
+    height: 400px;
+    margin-left: 140px;
+    margin-right: 60px;
+    margin-top: 76px;
+    position: absolute;
+    width: 1250px;
+}
+.zijkant{
+    background-color: rgb(44,62,80);
+    margin-left: 60px;
+    margin-right: 999px;
+    height: 400px;
+    margin-top: 15px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.zijkantpf {
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.infotekst {
+    padding-left: 18px;
+    /*margin-bottom: 500px;*/
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+}
+.tekst {
+    margin-left: 18px;
+    font-size: 23px;
+    margin-top: -20px;
+    font-family: 'Amaranth', sans-serif;
+}
+.Links {
+    background-color: rgb(24, 188, 156);
+    border-radius: 10px;
+    height: 310px;
+    margin-left: 450px;
+    margin-top: 15px;
+    width: 700px;
+}
+.Rechts {
+    height: 450px;
+    width: 500px;
+    margin-left:245px;
+    background-color: rgb(24,188,156);
+    margin-top: -474px;
+    border-radius: 10px 10px 10px 10px;
+}
+.tekstkop {
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: -15px;
+    font-size: 30px;
+    /*text-decoration: underline;*/
+}
+.LoginForm {
+    font-family: "Amaranth",sans-serif;
+    font-size: 20px;
+    margin-left: 75px;
+    margin-top: 50px;
+    padding: 0 23px;
+}
+.fa-facebook-square {
+    color: blue;
+}
+.fa-instagram {
+    color: #555555;
+}
+.fa-linkedin-square {
+    color: blue;
+}
+.fa-twitter-square {
+    color: blue;
+}
+.footer {
+    background-color: rgb(44,62,80);
+    width: 1000px;
+    margin-left: 250px;
+    height: 75px;
+    border-radius: 10px 10px 10px 10px;
+}
+.logininput {
+    margin-left: 50px;
+}
+.submitlogin {
+    margin-left: 130px;
+}
+.home {
+    margin-left: 720px;
+    margin-top: 115px;
+}
